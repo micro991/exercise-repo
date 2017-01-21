@@ -2,13 +2,6 @@
 Just for practice...
 This is just for practice!
 
-<<<<<<< HEAD
 
+I deleted everything
 
-
-
-
-
-This is v2
-Hello again!
-Eddited in the main branch!
